@@ -1,9 +1,4 @@
-//
-//  CSG.h
-//  Project4
-//
-//  Created by 魏芊芊 on 4/17/21.
-//
+
 
 #ifndef CSG_h
 #define CSG_h
