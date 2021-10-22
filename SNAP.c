@@ -1,10 +1,3 @@
-//
-//  hashTable.c
-//  project3
-//
-//  Created by 魏芊芊 on 4/13/21.
-//
-
 
 #include "SNAP.h"
 
