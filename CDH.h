@@ -1,9 +1,3 @@
-//
-//  CDH.h
-//  Project4
-//
-//  Created by 魏芊芊 on 4/17/21.
-//
 
 #ifndef CDH_h
 #define CDH_h
