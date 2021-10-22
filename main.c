@@ -1,9 +1,3 @@
-//
-//  main.c
-//  Project4
-//
-//  Created by 魏芊芊 on 4/15/21.
-//
 
 #include "SNAP.h"
 //#include "CP.h"
