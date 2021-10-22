@@ -1,9 +1,3 @@
-//
-//  hashTable.h
-//  project3
-//
-//  Created by 魏芊芊 on 4/14/21.
-//
 
 #ifndef SNAP_h
 #define SNAP_h
